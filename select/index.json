@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "レモンソーダ",
+  "base_artist": "家入レオ",
+  "createdAt": "2026-03-11T14:15:30.787231Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レモンソーダ",
+      "artist": "Leo Ieiri",
+      "has_synced": false,
+      "path": "select/01_レモンソーダ_Leo_Ieiri.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レモンソーダ",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/02_レモンソーダ_家入レオ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "レモンソーダ - Lemon Soda",
+      "artist": "Leo Ieiri",
+      "has_synced": true,
+      "path": "select/03_レモンソーダ_-_Lemon_Soda_Leo_Ieiri.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レモンソーダ",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_01_レモンソーダ_家入レオ.txt"
+    }
+  ]
+}
